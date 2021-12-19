@@ -1,0 +1,79 @@
+{
+    "heading": [
+        "Have you thought about trying",
+        "Maybe checkout",
+        "I think the best solution is",
+        "I've decided that you need to use",
+        "Drop what you know and try",
+        "But have you thought to use",
+        "Time to try the new FAANG tech.",
+        "Tell me if you've heard this one",
+        "Live a little and try",
+        "Google called. They said you need to use"
+    ],
+
+    "response": [
+        "Already know those",
+        "Are you kidding? Give me a real solution",
+        "I need some more spice",
+        "I'm gonna act like I didn't see this",
+        "*yawn*"
+    ],
+
+    "template": [
+        " the 'WTF' stack: @frontend, @backend, @database, and maybe @spice",
+        " @frontend, @backend, @database, and @spice for some spice or something like that!",
+        " @frontend, @backend, @database, and @spice without using stackoverflow"
+    ],
+
+    "frontend": [
+        "Back to the basics with Vanilla Js",
+        "React",
+        "Angular (lol jk)",
+        "Vue.js",
+        "Ember.js",
+        "some old school jQuery",
+        "Semantic-UI",
+        "Backbone.js",
+        "Svelte",
+        "PHP",
+        "Typescript (for Jordan)"
+    ],
+
+    "backend": [
+        "ExpressJs",
+        "Simply NodeJs",
+        "Python",
+        "Java",
+        "Go",
+        "C#",
+        "Rails",
+        "Laravel",
+        "Django",
+        "Flask",
+        "Spring Boot",
+        "Scala"
+
+    ],
+    "database" : [
+        "MySQL",
+        "MongoDb",
+        "MariaDb",
+        "Redis",
+        "Elasticsearch",
+        "SQLite",
+        "Neo4j"
+    ],
+    "spice" : [
+        "Hadoop",
+        "Kafka",
+        "AresDB",
+        "Docker",
+        "Sass",
+        "GraphQL",
+        "Redux",
+        "Ansible",
+        "Socket.IO",
+        "Bull"
+    ]
+}
