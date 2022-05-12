@@ -1,6 +1,6 @@
-# WTF Engine
+# What Is my Tech Stack 
 
-Inspired by [WhatTheFuckShouldIMakeForDinner.com](http://whatthefuckshouldimakefordinner.com/), in 2011 I made [WhatTheFuckIsMyMashup.com](http://whatthefuckismymashup.com/) and released this simple tool, the [WTFEngine](https://github.com/soulwire/WTFEngine/), for generating similar websites.
+Made with the [WTFEngine](https://github.com/soulwire/WTFEngine/), for generating similar websites.
 
 It's very simple to use and now allows you to populate it using either vanilla JavaScript objects, JSON files or direct feeds from Google spreadsheets.
 
